@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "npm"
+  - package-ecosystem: "npm"   # немесе сіздің жобаңызға сәйкес (pip, maven т.б.)
     directory: "/"
     schedule:
       interval: "weekly"
